@@ -4,6 +4,7 @@ title: example post \( \pi^0\rightarrow \gamma+\gamma \) the decay process
 date: 2024-6-20
 categories: blog
 description: Complex system.
+tag: LHC
 ---
 $$
 \pi^{\eta}

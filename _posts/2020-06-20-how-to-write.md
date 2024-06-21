@@ -24,3 +24,4 @@ implicit none
 write(*,*)"Hello, world!"
 end program main
 ```
+$$\pi^0 \rightarrow \gamma+\gamma$$

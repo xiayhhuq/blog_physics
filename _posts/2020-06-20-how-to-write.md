@@ -28,6 +28,7 @@ end program main
 $$
 \pi^0 \rightarrow \gamma+\gamma
 $$
+
 $$
-g+g\rightarrow H^0
+g+g \rightarrow H^0
 $$

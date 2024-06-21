@@ -7,6 +7,7 @@ date: 2024-06-20 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
+math: true
 ---
 
 ## Installation

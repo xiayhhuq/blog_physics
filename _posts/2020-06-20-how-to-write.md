@@ -24,7 +24,7 @@ test
 to be filled
 
 
-<img src="https://blog.xiahuhome.com/Figs/LHC.jpg">
+<img src="https://blog.xiahuhome.com/Figs/LHC.jpg" alt="The ATLAS particle detector of the Large Hadron Collider in Switzerland, was used to look for  the Higgs boson"/>
 
 > The ATLAS particle detector of the Large Hadron Collider in Switzerland, was used to look for  the Higgs boson.(test)<br>
 PHOTOGRAPH BY REX FEATURES VIA ASSOCIATED PRESS

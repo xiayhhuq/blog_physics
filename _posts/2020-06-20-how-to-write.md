@@ -21,3 +21,4 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 
 There are two ways to create a new repository for this theme:
 ![Build source](https://blog.xiahuhome.com/Figs/LHC.jpg)
+> This is a huge machine, named ATLAS in LHC, which is used for looking for the Higgs boson.

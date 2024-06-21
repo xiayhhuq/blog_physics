@@ -1,18 +1,13 @@
 ---
 title: Getting Started
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+  This is a huge machine, named ATLAS in LHC, which is used for looking for the Higgs boson.
 author: Xia_yh
 date: 2024-06-20 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
 ---
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
 ## Installation
 

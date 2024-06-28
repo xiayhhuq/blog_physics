@@ -18,8 +18,8 @@ title: Xia Yonghui # the main title
 
 tagline: Complex System, Quantum Mechanics, High Energy Physics and Cosmology # it will display as the sub-title
 
-description: >- Xia Yonghui's blog 
-# used by seo meta and the atom feed
+description: Xia Yonghui's blog 
+>- # used by seo meta and the atom feed
   #A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.

@@ -36,5 +36,5 @@ $$
 
 ### Back to China
 >Start to work on 01 July.
-{: .prompt-tip }
+{: .prompt-warning }
 

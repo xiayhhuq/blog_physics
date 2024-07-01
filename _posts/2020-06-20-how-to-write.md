@@ -35,5 +35,5 @@ g+g \rightarrow H^0
 $$
 
 ### Back to China
+>Start to work on 01 July.{: .prompt-tip }
 
-Start to work on 01 July.

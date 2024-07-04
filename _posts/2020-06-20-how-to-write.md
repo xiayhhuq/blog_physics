@@ -40,7 +40,7 @@ $$
 
 ### Diagram
 
-stateDiagram-v2
+stateDiagram
     [*] --> Parked
     Parked --> Driving: 5
     Driving --> Parked: 2

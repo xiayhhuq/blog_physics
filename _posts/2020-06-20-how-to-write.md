@@ -38,3 +38,11 @@ $$
 >Start to work on 01 July.
 {: .prompt-warning }
 
+### Diagram
+
+stateDiagram-v2
+    [*] --> Parked
+    Parked --> Driving: 5
+    Driving --> Parked: 2
+    Parked --> [*]
+    Driving --> [*]

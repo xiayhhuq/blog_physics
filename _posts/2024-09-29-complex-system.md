@@ -1,7 +1,7 @@
 ---
 title: complex system
 description: >-
-universality
+   universality
 author: Xia_yh
 date: 2024-09-29 12:15:00 +0800
 categories: [Blogging, research]
